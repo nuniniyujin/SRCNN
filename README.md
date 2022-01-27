@@ -16,6 +16,6 @@ Super resolution is to recover Low resolution images to Highresolution  images, 
 ![image](https://user-images.githubusercontent.com/80272042/151384400-54db0eb7-413b-4609-846d-51fcab7a777a.png)
 
 
-
+# References
 Matlab DEMO file for SRCNN Architecture based on paper : 
 C. Dong, C. C. Loy, K. He, and X. Tang, “Learning a deep convolutional network for image super-resolution,” in Proceedings of the European Conference on Computer Vision, 2014.

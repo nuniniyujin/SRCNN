@@ -1,7 +1,7 @@
-# SRCNN
+# Super-resolution with deep learning
+* Survey made about Super resolution state of the art architecture.
 
-* Super-resolution with deep learning :
-- Survey made about Super resolution state of the art architecture.
+## SRCNN
 
 * Implementation of SRCNN by matlab :
 ![image](https://user-images.githubusercontent.com/80272042/151383045-d22eeaab-ec50-40b4-9b69-9d22e4714000.png)

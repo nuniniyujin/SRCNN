@@ -13,7 +13,7 @@ Super resolution is to recover Low resolution images to Highresolution  images, 
 
 ![image](https://user-images.githubusercontent.com/80272042/151383954-de80abcd-dd90-424c-92c3-7e5b0c5c96a3.png)
 
-![image](https://user-images.githubusercontent.com/80272042/151384082-11e79b4a-3205-4214-939f-bff87cdd1c47.png)
+![image](https://user-images.githubusercontent.com/80272042/151384400-54db0eb7-413b-4609-846d-51fcab7a777a.png)
 
 
 

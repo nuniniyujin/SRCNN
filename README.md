@@ -1,5 +1,5 @@
 # Super-resolution with deep learning
-* Survey made about Super resolution state of the art architecture.
+* Survey made about Super resolution state of the art architecture. (To read survey, you can download file directly. Sometimes pdf is not loading on screen)
 * Please check : SRCNN/Deep_learning_super_resolution_survey.pdf
 
 ## SRCNN
